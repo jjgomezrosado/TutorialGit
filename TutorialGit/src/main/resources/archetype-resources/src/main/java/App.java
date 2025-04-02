@@ -15,7 +15,4 @@ public class App
 
     }
 
-    public static boolean esPar(int n) {
-        return n % 2 == 0;
-    }
 }
